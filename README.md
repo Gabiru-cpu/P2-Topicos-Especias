@@ -23,3 +23,6 @@ Este jogo foi desenvolvido utilizando o motor de jogo Unity, aproveitando suas c
 
 ## Contribuições
 Contribuições são bem-vindas! Se você deseja contribuir com melhorias ou correções para o jogo, por favor abra uma issue ou envie um pull request.
+
+## Grupo:
+Gabriel Librande, Pedro Menezes, Rhayadh Zaparoli, Michel Lopese Vitor Satake
