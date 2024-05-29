@@ -21,6 +21,18 @@ Este jogo foi desenvolvido utilizando o motor de jogo Unity, aproveitando suas c
 2. Entre na pasta Builds.
 3. Abra o arquivo "rhayadhEvitor.exe" com icone de dois personagens com um fundo de floresta.
 
+## Funcionalidades Implementadas
+- **Modo Cooperativo:** Permite que dois jogadores joguem juntos, cada um controlando um dos personagens principais (Rhayadh e Vitor), promovendo a cooperação para resolver desafios e salvar os animais.
+- **Movimentação Dinâmica:** Inclui a mecânica de movimentação para ambos os personagens, com controles dedicados para andar, pular e interagir com portais.
+- **Plataformas e Obstáculos:** Implementação de plataformas móveis e fixas, além de vários tipos de obstáculos que os jogadores devem evitar ou superar.
+- **Quebra-Cabeças Ambientais:** Diversos quebra-cabeças que exigem pensamento crítico e colaboração para serem resolvidos, permitindo progressão no jogo.
+- **Interação com o Ambiente:** Integração de elementos do cenário que reagem às ações dos jogadores, criando uma experiência de jogo mais imersiva.
+- **Design de Níveis:** Níveis cuidadosamente projetados que representam ambientes naturais do Brasil, cada um com seus próprios desafios e elementos únicos.
+- **Sistema de Pontuação:** Um sistema que rastreia o progresso dos jogadores e recompensas por salvar animais e completar níveis.
+- **Temática e Narrativa:** Enredo envolvente que educa os jogadores sobre a importância da conservação ambiental e a proteção dos animais em extinção no Brasil.
+- **Gráficos e Animações:** Gráficos detalhados e animações fluidas que dão vida aos personagens e ao ambiente do jogo.
+- **Som e Música:** Trilha sonora ambiental e efeitos sonoros que complementam a experiência imersiva do jogo.
+
 ## Contribuições
 Contribuições são bem-vindas! Se você deseja contribuir com melhorias ou correções para o jogo, por favor abra uma issue ou envie um pull request.
 
